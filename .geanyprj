@@ -1,0 +1,7 @@
+[project]
+name=Proj5 PoC_Inloggen
+description=
+base_path=./
+run_cmd=
+regenerate=true
+type=All
